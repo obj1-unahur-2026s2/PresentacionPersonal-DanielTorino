@@ -3,11 +3,6 @@
 # Programación con objetos I
 ## Presentación Personal
 
-### Datos Personales
-- Mi nombre es:
-- Vivo en
-
-
-### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+Presentación de Cursada: Daniel Torino¡Hola a todos, profesores y compañeros!Mi nombre es Daniel Torino, tengo 51 años y, aunque nací en CABA, me considero un vecino de Morón de pura cepa, ya que vivo acá desde hace 47 años. En el plano personal, comparto mi vida en pareja desde hace 26 años y tengo una hija de 18 que, curiosamente, este año también está dando sus primeros pasos universitarios en la UTN, cursando el primer año de Ingeniería en Sistemas.
+Respecto a mi camino en la carrera, elijo ser completamente sincero desde el primer día: el cuatrimestre pasado me costó muchísimo adaptarme a la lógica de la programación estructurada. Fue un verdadero desafío. De hecho, de la materia Objetos no tengo conocimientos previos; vengo con la mente en blanco, sin saber absolutamente nada del paradigma. Mi gran objetivo acá es aprender desde cero, asimilar los nuevos conceptos paso a paso y meterle toda la garra necesaria para ponerme al día y avanzar.
+Fuera de los libros y el código, tengo varias pasiones que me ayudan a desconectar. Soy un fiel hincha de Independiente, me apasiona seguir el fútbol en general y también disfruto mucho jugando o mirando tenis. Sin embargo, mis momentos más valiosos son los que comparto en familia. No necesito grandes lujos para pasarla bien: me conformo con una buena charla con un mate de por medio o con el silencio de una caminata tranquila por una playa bien extensa.Les deseo el mayor de los éxitos a todos en esta cursada. Estoy a disposición para armar grupos de estudio, darnos una mano mutua y transitar este cuatrimestre de la mejor manera posible. ¡Buena cursada para todos! 
